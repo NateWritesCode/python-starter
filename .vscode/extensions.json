@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.vscode-jupyter-slideshow",
+        "ms-python.vscode-pylance",
+        "oderwat.indent-rainbow",
+        "kevinrose.vsc-python-indent",
+        "ms-python.pylint",
+        "tamasfe.even-better-toml",
+        "njpwerner.autodocstring",
+        "ms-python.black-formatter"
+    ]
+}

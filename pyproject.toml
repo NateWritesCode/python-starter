@@ -1,0 +1,8 @@
+[project]
+name = "python-starter"
+version = "0.0.1"
+description = ""
+dependencies = []
+requires-python = ">=3.11"
+readme = "README.md"
+license = { text = "MIT" }
